@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://static-cse.canva.com/blob/1145215/1.magebyRodionKutsaevviaUnsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#webcam_view{
+    float: left;
+    margin: 150px;
+    margin-top: -100px;
+}
+#image_view{
+    float: right;
+    margin: 150px;
+    margin-top: -100px;
+}
+#h1{
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 200px;
+}
+#webcam_view{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+#image_view{
+    background-color: violet;
+    border-radius: 10px;
+}
+#mid{
+    background-color: lightcoral;
+    width: 150px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 20px;
+    
+}
+#click{
+    border-radius: red;
+}
+#recognise_img{
+    border-radius: blue;
+}
